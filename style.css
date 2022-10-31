@@ -1,0 +1,21 @@
+.hide {
+  display: none;
+}
+.dropdown-menu li {
+  text-align: center;
+  padding: 5px 0;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+}
+.dropdown-menu li:hover {
+  background-color: rgb(209, 209, 209);
+}
+.post-buttons {
+  padding: 5px 0 !important;
+}
+.store-txt {
+  padding: 5px 0 !important;
+}
